@@ -1,0 +1,2 @@
+# Tweechat
+Tweechat will hopefully one day be a minimal, performant, highly scalable, and highly crossplatform messaging app for individuals and small groups.  It will be written using native technologies for each platform (Rust for desktop and TUI, Swift for iOS, JVM for android, and JavaScript on the web). It will have end-to-end encryption, and store as little of your data as possible.<br>More to come.
